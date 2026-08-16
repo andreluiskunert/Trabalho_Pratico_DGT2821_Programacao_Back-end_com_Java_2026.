@@ -1,5 +1,3 @@
-Claro. Montei um **README.md pronto para colocar no GitHub**, baseado diretamente no roteiro da DGT2821. O trabalho pede um cadastro de clientes em modo texto, persistência em arquivos binários, herança, polimorfismo e tratamento de exceções. 
-
 # CadastroPOO — Programação Back-end com Java
 
 ## 📚 Trabalho Prático — DGT2821
