@@ -1,0 +1,2 @@
+# Trabalho_Pratico_DGT2821_Programacao_Back-end_com_Java_2026.
+ consiste em desenvolver em Java um sistema de cadastro de clientes em modo texto, aplicando orientação a objetos, herança, polimorfismo e Serializable. O programa deve cadastrar, alterar, excluir e consultar pessoas físicas e jurídicas, além de listar, salvar e recuperar dados em arquivos binários, utilizando repositórios e tratamento de exceções.
